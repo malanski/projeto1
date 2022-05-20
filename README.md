@@ -6,6 +6,8 @@ This application intent is to be a place for techology students to rate their on
   
 ## Tech Objectives
 ### Product Management Skills
+- Team brainstorming documentation
+- Team work using Jira
 - Draw a navigation flowchart using Miro
 - Design a low fidelity prototype on Figma
   
