@@ -16,7 +16,7 @@ This application intent is to be a place for techology students to rate their on
 - Lead the user to intuitively enjoy the interface
 - 
 
-### Backend
+### Backend Skills
 - To develop a CRUD aplication in order to let the user:
   - create a comment
   - read his comments and other people comments
@@ -45,7 +45,7 @@ This application intent is to be a place for techology students to rate their on
 <img title="Next" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 <img title="Figma" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <img title="Jira" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
-<img title="Jira" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
+<img title="node.js" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
 </div>
   
 ## Development Journal  
