@@ -37,5 +37,19 @@ This application intent is to be a place for techology students to rate their on
 <img title="TypeScript" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img title="Next" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 <img title="Figma" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+<img title="Jira" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+</div>
+
+### Prototypes
+
+<div align="center">
+<img width="450px" heigth="350px" src="prototype1.jpeg">
+<img heigth="350px" width="450px"  src="prototype2.jpeg">
+</div>
+
+### Fluxogram
+
+<div align="center">
+<img width="580px" src="fluxogramaZero.png">
 </div>
 
