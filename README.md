@@ -57,6 +57,7 @@ This application intent is to be a place for techology students to rate their on
 <div align="center">
 <img width="450px" heigth="350px" src="prototype1.jpeg">
 <img heigth="350px" width="450px"  src="prototype2.jpeg">
+<img heigth="350px" width="450px"  src="FigmaPrototype.png">  
 </div>
 
 ### Flowchart
